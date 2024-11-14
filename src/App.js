@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>Super creating a repo and adding to Github</p>
+        <p>Hey i have cloned a repo Using Github Desktop and Updating it!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
